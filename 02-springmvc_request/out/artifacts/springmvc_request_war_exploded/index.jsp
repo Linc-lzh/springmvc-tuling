@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <img src="${pageContext.request.contextPath}/images/1502093784622523.png">
+  <img src="${pageContext.request.contextPath}/images/f3d3572c11dfa9ec1970f65763d0f703918fc110.png">
+  ${name}
   </body>
 </html>

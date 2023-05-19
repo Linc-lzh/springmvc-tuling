@@ -26,7 +26,6 @@
 
 
     <mvc:resources mapping="/assets/**" location="/WEB-INF/static/"></mvc:resources>
-    <mvc:resources mapping="/**/*.html" location="/"></mvc:resources>
 
 
     <!--注册国际化资源文件-->
